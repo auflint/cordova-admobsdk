@@ -9,7 +9,7 @@
     <description>Add Google Mobile Ads SDK to Cordova porject, as dependency for other plugins</description>
     <author>Google</author>
     <keywords>rjfun,admob,google,ad</keywords>
-    <repo>https://github.com/floatinghotpot/cordova-admobsdk.git</repo>
+    <repo>https://github.com/auflint/cordova-admobsdk.git</repo>
     <issue>https://github.com/floatinghotpot/cordova-admobsdk/issues</issue>
 
     <engines>
@@ -18,7 +18,7 @@
 
     <platform name="android">
         <!-- for gradle-->
-        <framework src="com.google.android.gms:play-services-ads:+" />
+        <framework src="com.google.android.gms:play-services-ads:9.6.1" />
         
         <!-- for ant -->
         <!--dependency id="cordova-plugin-googleplayservices"/-->
