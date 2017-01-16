@@ -18,7 +18,7 @@
 
     <platform name="android">
         <!-- for gradle-->
-        <framework src="com.google.android.gms:play-services-ads:9.4.0" />
+        <framework src="com.google.android.gms:play-services-ads:9.2.0" />
         
         <!-- for ant -->
         <!--dependency id="cordova-plugin-googleplayservices"/-->
